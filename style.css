@@ -1,0 +1,25 @@
+.copy_right_footer
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align : center;
+    background-color: rgb(181, 181, 188);
+}
+
+#hh1
+{
+    font-weight : 20;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+}
+
+body
+{
+    background-color: rgb(229, 229, 234) ;
+}
+img:hover
+{
+    border-radius: 140px;
+}
+
